@@ -1,0 +1,17 @@
+.imagecss3{
+    width: 3em;
+    height: 3em;
+    float: left;
+}
+code{
+    background-color: blue;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 1em;
+    width: 15px;
+    color: white;
+}
+footer{
+    position: relative;
+    bottom: 0;
+}

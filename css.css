@@ -1,0 +1,25 @@
+.imagecss3{
+    width: 3em;
+    height: 3em;
+    float: left;
+}
+.section{
+    padding-left: 15px;
+}
+.explications{
+    padding-top: 10px;
+    padding-left: 10%;
+    text-align: center;
+}
+.bouttontest{
+    background-color: blue;
+    border-radius: 10px 10px 10px 10px;
+}
+.imagecode{
+    height: 50%;
+    width: 50%;
+}
+footer{
+    position: relative;
+    bottom: 0;
+}
